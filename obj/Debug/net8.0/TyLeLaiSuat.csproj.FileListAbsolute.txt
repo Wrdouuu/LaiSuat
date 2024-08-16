@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Bai tap\TyLeLaiSuat\bin\Debug\net8.0\TyLeLaiSuat.exe
+C:\Users\admin\Desktop\Bai tap\TyLeLaiSuat\bin\Debug\net8.0\TyLeLaiSuat.deps.json
+C:\Users\admin\Desktop\Bai tap\TyLeLaiSuat\bin\Debug\net8.0\TyLeLaiSuat.runtimeconfig.json
+C:\Users\admin\Desktop\Bai tap\TyLeLaiSuat\bin\Debug\net8.0\TyLeLaiSuat.dll
+C:\Users\admin\Desktop\Bai tap\TyLeLaiSuat\bin\Debug\net8.0\TyLeLaiSuat.pdb
+C:\Users\admin\Desktop\Bai tap\TyLeLaiSuat\obj\Debug\net8.0\TyLeLaiSuat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Bai tap\TyLeLaiSuat\obj\Debug\net8.0\TyLeLaiSuat.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Bai tap\TyLeLaiSuat\obj\Debug\net8.0\TyLeLaiSuat.AssemblyInfo.cs
+C:\Users\admin\Desktop\Bai tap\TyLeLaiSuat\obj\Debug\net8.0\TyLeLaiSuat.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Bai tap\TyLeLaiSuat\obj\Debug\net8.0\TyLeLaiSuat.dll
+C:\Users\admin\Desktop\Bai tap\TyLeLaiSuat\obj\Debug\net8.0\refint\TyLeLaiSuat.dll
+C:\Users\admin\Desktop\Bai tap\TyLeLaiSuat\obj\Debug\net8.0\TyLeLaiSuat.pdb
+C:\Users\admin\Desktop\Bai tap\TyLeLaiSuat\obj\Debug\net8.0\TyLeLaiSuat.genruntimeconfig.cache
+C:\Users\admin\Desktop\Bai tap\TyLeLaiSuat\obj\Debug\net8.0\ref\TyLeLaiSuat.dll
